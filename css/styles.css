@@ -1,5 +1,72 @@
 body
 
+h5 {
+	margin-left: 5px;
+}
+
+p {
+	margin-left: 5px;
+}
+
+.f-dropdown {
+	color: black;
+	float: left;
+	clear: both;
+	margin: 10px;
+
+}
+
+.title-dropdown {
+	color: black;
+	height: 15px;
+	width: 200px;
+
+}
+
+.title-dropdown:hover {
+	color: red;
+	height: 15px;
+	width: 200px;
+
+}
+
+
+.title-dropdown2 {
+	color: black;
+	height: 15px;
+	width: 200px;
+	
+}
+
+.title-dropdown2:hover {
+	color: red;
+	height: 15px;
+	width: 200px;
+	
+}
+
+.button {
+	margin-bottom: 10px;
+	width: 200px;
+	background: #C1272D;
+}
+
+.button:hover {
+	background: #000;
+}
+
+.middle-content {
+	width: 400px;
+	float: left;
+	margin-left: 110px;
+	margin-top: 10px;
+
+}
+
+.middle-content h2 {
+	margin-left: -20px;
+}
+
 .container {}
 
 .header {}
@@ -18,10 +85,14 @@ body
 
 .left-column {
 	float: left;
+	margin-left: 210px;
 }
 
 .right-column {
 	float: right;
+	margin-right: 210px;
+	margin-top: -410px;
+
 }
 .module-1 {
 	width: 200px;
