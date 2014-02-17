@@ -121,7 +121,7 @@ p {
 .right-column {
 	float: right;
 	margin-right: 210px;
-	margin-top: -410px;
+	margin-top: -425px;
 
 }
 .module-1 {
@@ -143,15 +143,7 @@ p {
 	clear: both;
 }
 
-.module-3 {
-	width: 200px;
-	height: 200px;
-	background: lightgrey;
-	margin: 10px;
-	float: left;
-	clear: both;
-	
-}
+
 
 .module-4 {
 	width: 200px;
@@ -171,12 +163,4 @@ p {
 	clear: both;
 }
 
-.module-6 {
-	width: 200px;
-	height: 200px;
-	background: lightgrey;
-	margin: 10px;
-	float: right;
-	clear: both;
-}
 
