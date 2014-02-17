@@ -1,5 +1,25 @@
 body
 
+h5 {
+	margin-left: 5px;
+}
+
+p {
+	margin-left: 5px;
+}
+
+.button {
+	margin-bottom: 10px;
+}
+
+.middle-content {
+	width: 300px;
+	float: left;
+	margin-left: 120px;
+	margin-top: 10px;
+
+}
+
 .container {}
 
 .header {}
@@ -18,10 +38,12 @@ body
 
 .left-column {
 	float: left;
+	margin-left: 210px;
 }
 
 .right-column {
 	float: right;
+	margin-right: 210px;
 }
 .module-1 {
 	width: 200px;
